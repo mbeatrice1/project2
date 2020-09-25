@@ -19,8 +19,14 @@ Beatrice Uwamahoro
  
  # Technologies
  JavaScript
+ 
  Html and css
  
+ # Contact Information
+
+Telephone: 0781469906
+
+email:mahorobeatrice9@gmail.com
  
  
  
