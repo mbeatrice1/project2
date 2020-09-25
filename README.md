@@ -9,8 +9,19 @@ Beatrice Uwamahoro
 
 # Setup Instructions
  vscode
+ 
  Chrome
- Ubuntu OS
+ 
+ Ubuntu Os
+ 
+ # BDD
+ Boostrap
+ 
+ # Technologies
+ JavaScript
+ Html and css
+ 
+ 
  
  
  
