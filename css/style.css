@@ -1,0 +1,108 @@
+.content{
+    background-image: url(https://github.com/mbeatrice1/project1/blob/develop/b5c1f91f-ef20-4ba6-a9e4-4a8fc41253d0.JPG?raw=true); 
+    background-repeat:  no-repeat;
+    background-size: cover;
+   position: absolute;
+   width: 100%;
+   top:0;
+   height: 150%;
+
+
+}
+#info{
+
+    
+    font-style: italic;
+    color: black;
+    padding: 110px;
+    margin-left: 58%;
+    font-size: 13px;
+    text-align: start;
+    
+    /*text-shadow:2px 2px 5px rgb(185, 185, 248);*/
+    
+    }
+    .lk{
+    background-color:  rgb(190, 177, 146);
+    overflow: hidden;
+    margin: -10px;
+    padding: 5px;
+    font-size: 20px;
+    
+    }
+    .lk a:hover{
+    
+    background-color: rgb(225, 197, 176);
+    }
+    .lk a{
+    padding: 10px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    }
+    .flex-container{
+   
+        padding:8%;
+        background-color:#eff2eb;
+        position: relative;
+        margin-top:17%;
+        
+    }
+    
+
+    .abt{
+        font-style: italic;
+        font-size-adjust: 20px;
+        text-align: center;
+    }
+    main{
+        display: flex;
+        justify-content: space-around;
+    }
+   
+    
+#l{
+        text-align: center;
+        font-style: italic;
+        font-size: 20px;
+        background-color: darkolivegreen;
+        margin-inline-start: 900px;
+        padding-block-start: 3px;
+
+    }
+    
+  
+ box{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-around;
+
+  
+}
+.boxs{
+ 
+border:0px solid black;
+box-sizing: content-box;
+text-align: center;
+height: 200px;
+width: 200px;
+padding:18px;
+/*background-color: darkslategray;*/
+
+
+}
+.boxs :hover{
+    background-color: black;
+    color: white;
+    
+}
+
+  
+            
+           
+    
+
+
+
+
