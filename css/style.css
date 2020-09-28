@@ -1,0 +1,28 @@
+ 
+  .tb{
+      align-content: flex-end;
+  }
+  
+  
+  box{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-around;
+  }
+ .boxs{
+ 
+    border:0px solid black;
+    box-sizing: content-box;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    padding:18px;
+    /*background-color: darkslategray;*/
+    
+    
+    }
+    .boxs :hover{
+        background-color:green;
+        color: white;
+        
+    }

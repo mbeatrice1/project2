@@ -1,13 +1,9 @@
 
-
-prompt("Hello Welcome To the World of Akhans names")
-function validateForm(){
-var cc= document.forms[fillingForm]["c"];
-var dd= document.forms[fillingForm]["d"];
-var mn =document.forms[FillingForm]["m"];
-var yy=document.forms[FillingForm]["y"];
-var gender =document.forms[FillingForm]["g"];
-
-}
-
-
+var jumpingJacks= function(numberOfTimes,whatToDo){
+    document.getElementById("btnclick").onclick= jumpingJacks;
+    for(var i =1; i<numberOfTimes; i++){
+      console.log(i+" "+whatToDo);
+    }
+   
+ };
+ jumpingJacks(13,"Jump over the puddle");
