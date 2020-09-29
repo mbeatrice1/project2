@@ -54,7 +54,7 @@ break;
 
 case 7:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on wednesday and your Akhan KWA");
 break;
  default:
   document.write("No available choices");
