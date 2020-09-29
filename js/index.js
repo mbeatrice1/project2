@@ -20,7 +20,7 @@ if(dd<1 || day>31 && mn<1 || mn>12){
   goto :start;
   
 
-}else (gender == "male"){
+}else if( gender == "male") {
   switch(rea){
 
 case 1:
@@ -57,7 +57,8 @@ case 7:
   document.write("You have born on wednesday and your Akhan KWADO");
 break;
  default:
-  document.write("No available choices")
+  document.write("No available choices");
+  }
 
   }else if(gender == "female")
 
@@ -107,4 +108,3 @@ break;
 
 
 
-}
