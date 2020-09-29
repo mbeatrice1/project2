@@ -25,31 +25,31 @@ if(dd<1 || day>31 && mn<1 || mn>12){
 
 case 1:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on Monday and your Akhan KWASI");
 break;
 
 case 2:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on Tuesday and your Akhan KWADWO");
 break;
 
 case 3:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on wednesday and your Akhan KWABENA");
 break;
 case 4:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on Thursday and your Akhan YAW");
 break;
 
 case 5:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on saturday and your Akhan KOFI");
 break;
 
 case 6:
 
-  document.write("You have born on wednesday and your Akhan KWADO");
+  document.write("You have born on Sunday and your Akhan KWASI");
 break;
 
 case 7:
@@ -67,36 +67,36 @@ break;
 
       case 1:
 
-        document.write("You have born on wednesday and your Akhan KWASI");
+        document.write("You have born on Monday and your Akhan AKOSUA");
       break;
       
       case 2:
       
-        document.write("You have born on wednesday and your Akhan KWASI");
+        document.write("You have born on Tuesday and your Akhan ADWOA");
       break;
       
       case 3:
       
-        document.write("You have born on wednesday and your Akhan KWASI");
+        document.write("You have born on wednesday and your Akhan ABENAA");
       break;
       case 4:
       
-        document.write("You have born on wednesday and your Akhan KWADO");
+        document.write("You have born on Thursday and your Akhan AKUA");
       break;
       
       case 5:
       
-        document.write("You have born on wednesday and your Akhan KWASI");
+        document.write("You have born on Friday and your Akhan YAA");
       break;
       
       case 6:
       
-        document.write("You have born on wednesday and your Akhan KWASI");
+        document.write("You have born on Saturday and your Akhan AFUA");
       break;
       
       case 7:
       
-        document.write("You have born on wednesday and your Akhan KWASI");
+        document.write("You have born on Sunday and your Akhan AMA");
       break;
        default:
         document.write("No available choices")
